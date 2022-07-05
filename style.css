@@ -1,0 +1,82 @@
+body{
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+}
+
+.head-line{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+.head-line-3{
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+.sub-line{
+    font-size: 15px;
+    text-align: center;
+    color: white;
+}
+.sub-line3{
+    font-size: 15px;
+    text-align: center;
+    color: black;
+}
+.top-banner{
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.btn{
+    padding: 10px;
+    border-radius: 5%;
+    text-decoration: none;
+    background-color: orange;
+    margin-left: 45%;
+}
+.donate-plan{
+    display: flex;
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 5%;
+}
+.one-third-width{
+    width: 25%;
+    padding-left: 1%;
+    border-radius: 5px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-right: 1%;
+
+}
+.display-container{
+    display: flex;
+    margin-left: 12%;
+}
+.shalter{
+    margin-left: 3%;
+    background-color:pink ;
+}
+.education{
+    margin-left: 3%;
+    background-color: antiquewhite ;
+    
+}
+.food{
+    background-color: rgb(157, 241, 241);
+}
+footer{
+    background-color: black;
+    text-align: center;
+    height: 120px;
+    padding-top: 2%;
+}
+.f-line-1{
+    color: red;
+}
+.f-line-2{
+    color: white;
+}
