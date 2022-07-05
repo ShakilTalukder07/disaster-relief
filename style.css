@@ -13,16 +13,27 @@ body{
     text-align: center;
     font-size: 50px;
 }
+.head-line-4{
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
 .sub-line{
     font-size: 15px;
     text-align: center;
     color: white;
 }
-.sub-line3{
+.sub-line-3{
     font-size: 15px;
     text-align: center;
     color: black;
 }
+.sub-line-4{
+    font-size: 15px;
+    text-align: center;
+    color: black;
+}
+
 .top-banner{
 
     background-repeat: no-repeat;
