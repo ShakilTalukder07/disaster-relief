@@ -11,7 +11,7 @@ body{
     font-size: 50px;
     text-align: center;
     color: white;
-    margin-top: 10%;
+    margin-top: 30%;
 }
 .head-line-3{
     color: black;
@@ -24,18 +24,18 @@ body{
     font-size: 50px;
 }
 .sub-line{
-    font-size: 15px;
+    font-size: 20px;
     text-align: center;
     color: white;
     margin-top: 20%;
 }
 .sub-line-3{
-    font-size: 15px;
+    font-size: 20px;
     text-align: center;
     color: black;
 }
 .sub-line-4{
-    font-size: 15px;
+    font-size: 20px;
     text-align: center;
     color: black;
 }
@@ -79,12 +79,16 @@ body{
     color: grey;
     font-size: larger;
 }
+.value-bg{
+    background-color: rgb(252, 251, 251);
+}
 .value-pass{
     margin-left: 2%;
 }
 .value-2{
     border: 1px;
     border-color: orange;
+    background-color: orange;
 }
 small{
     margin-left: 45%;
@@ -159,11 +163,28 @@ fieldset{
     width: 50%;
     margin-bottom: 20%;
 }
+.main{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    margin-bottom: 60px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 50px 80px;
+    background-color: aqua;
+}
+.search-box{
+    border: 1px solid beige;
+    padding-bottom: 5px;
+    padding-top: 2px;
+    background-color: beige;
+    background-size: cover;
+}
 .subscribe{
-    padding: 1px;
-    border-radius: 5%;
+    background-color: red;
+    border: 1px solid red;
+    padding-bottom: 10px;
     text-decoration: none;
-    background-color: orange;
 }
 footer{
     background-color: black;
@@ -177,11 +198,4 @@ footer{
 }
 .f-line-2{
     color: white;
-}
-
-.input-text {
-    font-size: .8em;
-    border: none;
-    padding: 1em;
-    position: relative;
 }
