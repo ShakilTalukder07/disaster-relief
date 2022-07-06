@@ -44,8 +44,8 @@ body{
     background: url(images/donation4.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 100%;
-    margin: 0%;
+    background-size: cover;
+
     
 }
 .text-position{
@@ -137,7 +137,7 @@ hr{
 .food{
     background-color: rgb(157, 241, 241);
 }
-/* news section  */
+
 .news{
     text-align: center;
 }
@@ -190,10 +190,10 @@ footer{
     text-align: center;
     height: 120px;
     padding-top: 2%;
-    font-family: 'Lobster', cursive;
 }
 .f-line-1{
     color: red;
+    font-family: 'Lobster', cursive;
 }
 .f-line-2{
     color: white;
