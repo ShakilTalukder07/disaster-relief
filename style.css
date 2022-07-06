@@ -35,10 +35,16 @@ body{
 }
 
 .top-banner{
-
+    height: 100vh;
+    background: url(images/donation6.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-position: center;
+    background-size: 100%;
+    margin: 0%;
     
+}
+.text-position{
+    margin-top: 20px;
 }
 .btn{
     padding: 10px;
@@ -46,6 +52,32 @@ body{
     text-decoration: none;
     background-color: orange;
     margin-left: 45%;
+}
+.display-container{
+    display: flex;
+    margin-left: 25%;
+}
+.one-fifth-width{
+    box-shadow: 1px 1px 1px 1px;
+    width: 10%;
+    padding-left: 1%;
+    border-radius: 5px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-right: 1%;
+}
+.value{
+    padding-left: 20px;
+    margin-left: 2%;
+    color: grey;
+    font-size: larger;
+}
+.value-pass{
+    margin-left: 2%;
+}
+.value-2{
+    border: 1px;
+    border-color: orange;
 }
 .donate-plan{
     display: flex;
@@ -61,11 +93,11 @@ body{
     padding-top: 2%;
     padding-bottom: 2%;
     padding-right: 1%;
-
 }
-.display-container{
+.display-container-2{
     display: flex;
     margin-left: 12%;
+    margin-top: 5%;
 }
 .shalter{
     margin-left: 3%;
