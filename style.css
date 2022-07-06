@@ -116,9 +116,16 @@ fieldset{
     border: solid 1px #080808;
     background-color: rgb(236, 211, 180);
     margin-left: 25%;
-    height: 30%;
+    height: 100%;
     width: 50%;
     margin-bottom: 20%;
+}
+.subscribe{
+    padding: 5px;
+    border-radius: 5%;
+    text-decoration: none;
+    background-color: orange;
+
 }
 footer{
     background-color: black;
