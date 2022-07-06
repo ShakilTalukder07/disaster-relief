@@ -170,19 +170,19 @@ fieldset{
     margin-left: 25%;
     margin-right: 25%;
     padding: 50px 80px;
-    background-color: aqua;
+    background-color: beige;
 }
 .search-box{
-    border: 1px solid beige;
-    padding-bottom: 5px;
+    border: 1px solid white;
+    padding-bottom: 3px;
     padding-top: 2px;
-    background-color: beige;
+    background-color: white;
     background-size: cover;
 }
 .subscribe{
     background-color: red;
     border: 1px solid red;
-    padding-bottom: 10px;
+    padding-bottom: 8px;
     text-decoration: none;
 }
 footer{
