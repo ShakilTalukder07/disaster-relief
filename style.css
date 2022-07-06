@@ -36,7 +36,7 @@ body{
 
 .top-banner{
     height: 100vh;
-    background: url(images/donation6.jpg);
+    background: url(images/donation3.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100%;
@@ -52,6 +52,7 @@ body{
     text-decoration: none;
     background-color: orange;
     margin-left: 45%;
+    margin-top: 10%;
 }
 .display-container{
     display: flex;
@@ -110,6 +111,14 @@ body{
 }
 .food{
     background-color: rgb(157, 241, 241);
+}
+fieldset{
+    border: solid 1px #080808;
+    background-color: rgb(236, 211, 180);
+    margin-left: 25%;
+    height: 30%;
+    width: 50%;
+    margin-bottom: 20%;
 }
 footer{
     background-color: black;
